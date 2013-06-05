@@ -8,7 +8,7 @@ All rights reserved.
 */
 
 var assert = require('assert'),
-    YQL    = require('../yql.js'),
+    YQL = require('yql'),
     query;
 
 // No YQL string
